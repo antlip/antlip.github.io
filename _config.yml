@@ -15,7 +15,7 @@ author: Anthony Lipscomb
 
 navbar-links:
   About Me: "aboutme"
-  Android: "android"
+  Android: "https://antlip.dev/tags/#Android"
   Sponsors: "https://github.com/sponsors/antlip/"
 
 # --- Logo --- #
