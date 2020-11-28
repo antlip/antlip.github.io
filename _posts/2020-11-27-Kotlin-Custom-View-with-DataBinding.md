@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kotlin Custom View
+title: Kotlin Custom View with DataBinding
 subtitle: Create a layout containing multiple subviews using Kotlin and Android DataBinding
 tags: [Kotlin, Android, UI]
 comments: true
