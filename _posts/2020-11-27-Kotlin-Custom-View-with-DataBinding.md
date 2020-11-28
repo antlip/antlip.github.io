@@ -32,7 +32,7 @@ Leave the rest as is and select `Ok`
 
 You'll see on the right side of the Android Studio window, below the open files tab, there is a `Code | Split | Design` option. You're going to want to select `Code`.
 
-![code|split|design](/assets/img/custom-view/code-split-design.png)
+![code-split-design](/assets/img/custom-view/code-split-design.png)
 
 Type the following into the editor
 
